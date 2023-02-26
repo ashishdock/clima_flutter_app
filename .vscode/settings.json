@@ -1,0 +1,32 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/.idea": true,
+    ".idea": true,
+    "**/.vscode": true,
+    ".vscode": true,
+    "**/build": true,
+    "build": true,
+    "**/ios": true,
+    "ios": true,
+    "**/linux": true,
+    "linux": true,
+    "**/macos": true,
+    "macos": true,
+    "**/web": true,
+    "web": true,
+    "**/.dart_tool": true,
+    ".dart_tool": true
+  },
+  "explorerExclude.backup": {},
+  "dotenv.enableAutocloaking": true
+}
